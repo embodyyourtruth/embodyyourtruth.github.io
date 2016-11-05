@@ -165,12 +165,13 @@ div#splash {
   height: 90vh;
   line-height: normal;
   text-align: center;
+  color: #f2fffa;
 }
 
 h1.name {
   padding-top: 25vh;
   font-size: 6vw;
-  color: white;
+  color: #f2fffa;
 }
 
 div#splash a {
