@@ -160,9 +160,10 @@ div#menu > img {
 }
 
 div#splash {
+  font-family: 'Cookie';
   margin-top: 5em;
   height: 90vh;
-  color: white;
+  color: #3f726e;
   line-height: normal;
   text-align: center;
 }
