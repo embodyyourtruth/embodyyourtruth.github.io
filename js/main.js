@@ -22,4 +22,4 @@ $(document).ready(function() {
   }
 });
 
-var app = angular.module('AvnielApp', []);
+var app = angular.module('EYTApp', []);
