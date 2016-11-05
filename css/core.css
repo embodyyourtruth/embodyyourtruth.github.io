@@ -168,6 +168,10 @@ div#splash {
   text-align: center;
 }
 
+h1.name {
+  padding-top: 15vh;
+}
+
 div#splash a {
   color: white !important;
 }
