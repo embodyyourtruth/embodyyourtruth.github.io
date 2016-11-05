@@ -163,13 +163,13 @@ div#splash {
   font-family: 'Cookie';
   margin-top: 5em;
   height: 90vh;
-  color: #3f726e;
   line-height: normal;
   text-align: center;
 }
 
 h1.name {
-  padding-top: 15vh;
+  padding-top: 25vh;
+  font-size: 2em;
 }
 
 div#splash a {
