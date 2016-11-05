@@ -160,28 +160,19 @@ div#splash {
   height: 90vh;
   line-height: normal;
   text-align: center;
-  color: #ddede5;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #edfdf5;
 }
 
 h1.name {
   padding-top: 25vh;
   font-size: 7vw;
-  color: #ddede5;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #edfdf5;
+  text-shadow: -2px 0 #333, 0 2px #333, 2px 0 #333, 0 -2px #333;
 }
 
 div#splash a {
-  color: white !important;
-}
-
-div#splash h1, div#splash h2  {
-  font-weight: 100;
-}
-
-div#splash > img.logo {
-  height: 8vw;
-  margin-top: 12vh;
+  color: #edfdf5; !important;
+  text-shadow: -2px 0 #333, 0 2px #333, 2px 0 #333, 0 -2px #333;
 }
 
 div#content {
