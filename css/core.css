@@ -160,15 +160,15 @@ div#splash {
   height: 90vh;
   line-height: normal;
   text-align: center;
-  color: #edfdf5;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #1c3331;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
 h1.name {
   padding-top: 25vh;
   font-size: 7vw;
-  color: #edfdf5;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #1c3331;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
 div#splash a {
@@ -195,7 +195,7 @@ p#quote {
   padding: 1.2em 10vw 0 11vw;
   text-align: left;
   font-style: italic;
-  font-size: 1.2em;
+  font-size: 4vw;
   text-align: center;
 }
 
