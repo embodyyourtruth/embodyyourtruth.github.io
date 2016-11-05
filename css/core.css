@@ -166,12 +166,14 @@ div#splash {
   line-height: normal;
   text-align: center;
   color: #f2fffa;
+  text-shadow: -1px 0 #333, 0 1px #333, 1px 0 #333, 0 -1px #333;
 }
 
 h1.name {
   padding-top: 25vh;
   font-size: 6vw;
   color: #f2fffa;
+  text-shadow: -1px 0 #333, 0 1px #333, 1px 0 #333, 0 -1px #333;
 }
 
 div#splash a {
