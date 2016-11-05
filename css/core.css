@@ -163,6 +163,10 @@ div#splash {
   color: #edfdf5;
 }
 
+p.indent {
+  margin-left: 2em;
+}
+
 h1.name {
   padding-top: 25vh;
   font-size: 7vw;
