@@ -22,12 +22,12 @@ p, ul {
 }
 
 h2 {
-  font-size: 1.4em;
+  font-size: 5vw;
   margin: 0 !important;
   padding: 1vw 7vw 1vw 7vw;
 }
 
-p, h3 {
+p {
   padding: 0.2vw 7vw 0.2vw 7.5vw;
   text-align: justify;
 }
@@ -169,7 +169,8 @@ div#splash {
 
 h1.name {
   padding-top: 25vh;
-  font-size: 2em;
+  font-size: 6vw;
+  color: white;
 }
 
 div#splash a {
@@ -189,7 +190,7 @@ div#content {
   width: 100%;
   margin: 0;
   padding: 0;
-  background-color: #fff9ff;
+  background-color: #f2fffa;
 }
 
 p#quote {
