@@ -118,7 +118,7 @@ a, a:visited, a:active, a:hover, a:focus {
     -webkit-transition: all 0.4s linear;
     transition: all 0.4s linear;
     border-radius: 50%;
-    border: 1px solid white;
+    border: 2px solid #edfdf5;
 }
 
 .rotate.motion {
