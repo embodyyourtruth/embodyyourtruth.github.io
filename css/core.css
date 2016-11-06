@@ -182,12 +182,12 @@ h1.name {
   padding-top: 25vh;
   font-size: 7vw;
   color: #1c3331;
-  text-shadow: -2px 0 #333, 0 2px #333, 2px 0 #333, 0 -2px #333;
+  /*text-shadow: -2px 0 #333, 0 2px #333, 2px 0 #333, 0 -2px #333;*/
 }
 
 div#splash a {
   color: #edfdf5; !important;
-  text-shadow: -2px 0 #333, 0 2px #333, 2px 0 #333, 0 -2px #333;
+/*  text-shadow: -2px 0 #333, 0 2px #333, 2px 0 #333, 0 -2px #333;*/
 }
 
 div#content {
