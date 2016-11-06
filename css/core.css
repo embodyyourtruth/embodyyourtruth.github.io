@@ -73,7 +73,7 @@ header {
     width: 100%;
     margin: 0;
     padding: 0;
-    color: white;
+    color: #1c3331;
     background: url("../img/background.jpg") no-repeat top center fixed;
     background-size: cover;
 }
