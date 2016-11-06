@@ -135,7 +135,7 @@ a, a:visited, a:active, a:hover, a:focus {
 }
 
 p.indent {
-  text-indent: 3em;
+  text-indent: 2em;
 }
 
 div#menu {
@@ -174,7 +174,7 @@ div#splash {
   color: #1c3331;
 }
 
-p.indent {
+p.indent2 {
   margin-left: 10px;
 }
 
