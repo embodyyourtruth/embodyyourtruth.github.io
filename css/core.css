@@ -125,7 +125,7 @@ a, a:visited, a:active, a:hover, a:focus {
     -webkit-transition: all 0.4s linear;
     transition: all 0.4s linear;
     border-radius: 50%;
-    border: 2px solid #edfdf5;
+    border: 2px solid #1c3331;
 }
 
 .rotate.motion {
@@ -171,7 +171,7 @@ div#splash {
   height: 90vh;
   line-height: normal;
   text-align: center;
-  color: #edfdf5;
+  color: #1c3331;
 }
 
 p.indent {
@@ -181,7 +181,7 @@ p.indent {
 h1.name {
   padding-top: 25vh;
   font-size: 7vw;
-  color: #edfdf5;
+  color: #1c3331;
   text-shadow: -2px 0 #333, 0 2px #333, 2px 0 #333, 0 -2px #333;
 }
 
